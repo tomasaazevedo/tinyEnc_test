@@ -1,0 +1,13 @@
+_T1: CODE, 0 0 0
+__stringtab: STRING, 5 0 1
+__stringdata: STRING, 38 0 7
+_main: CODE, 1511 0 110
+__initialization: CODE, 1497 0 12
+_createNextKey: CODE, 1989 0 59
+_sBox: CODE, 1914 0 67
+_cipherCryptB: CODE, 1621 0 293
+_P: STRING, 6 0 16
+_Q: STRING, 22 0 16
+_xTimes: CODE, 1981 0 8
+_T0: CODE, 0 0 0
+Total: 589
